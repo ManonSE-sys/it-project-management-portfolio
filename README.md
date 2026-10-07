@@ -34,17 +34,19 @@ Ce portfolio présente des projets réalisés à différentes étapes de mon par
 
 ### Gestion de projet
 
+- Analyse de l'existant
 - Coordination d'équipes techniques
-- Suivi d'avancement
 - Priorisation
-- Organisation de déploiements
-- Reporting
-- Animation de réunions
+- Planification et organisation de déploiements
+- Suivi d'avancement
 - Gestion des risques et incidents
-- Coordination internationale
-- Accompagnement au changement
+- Migration progressive
 - Tests et validation
 - Mise en production
+- Reporting
+- Animation de réunions
+- Coordination internationale
+- Accompagnement au changement
 - Retour d'expérience
 
 ### Infrastructure & Cybersécurité
@@ -55,6 +57,8 @@ Ce portfolio présente des projets réalisés à différentes étapes de mon par
 - GPO
 - SCCM
 - Puppet
+- Infrastructure as Code
+- Proxmox
 - Graylog
 - Nagios
 - Bash
@@ -65,20 +69,23 @@ Ce portfolio présente des projets réalisés à différentes étapes de mon par
 - Centralisation et analyse de logs
 - Automatisation
 
-## Une approche technique de la gestion de projet
+## Une double compétence technique et projet
 
-Ma compréhension de la gestion de projet est fortement liée à mon expérience opérationnelle.
+Ma pratique de la gestion de projet s'appuie sur plusieurs années
+d'expérience opérationnelle en systèmes, infrastructure et cybersécurité.
 
-Avoir travaillé directement sur des infrastructures systèmes me permet notamment de mieux comprendre :
+Cette expérience me permet notamment de mieux comprendre :
 
 - les contraintes des équipes techniques ;
 - les risques associés aux changements en production ;
 - les dépendances entre composants ;
 - l'importance des phases de test et de validation ;
 - les conséquences opérationnelles d'un planning ou d'une décision projet ;
-- l'importance de concevoir des solutions exploitables et maintenables.
+- la nécessité de concevoir des solutions exploitables et maintenables.
 
-Mon objectif est aujourd'hui de capitaliser sur cette double expérience afin d'évoluer vers des fonctions de **pilotage de projets IT, infrastructure ou cybersécurité**.
+Mon objectif est aujourd'hui de capitaliser sur cette double compétence
+afin d'évoluer vers des fonctions de **pilotage de projets IT,
+infrastructure ou cybersécurité**.
 
 ## À propos des projets présentés
 
@@ -95,9 +102,8 @@ Les retours d'expérience correspondent également à mon regard actuel sur ces 
 
 ## Me retrouver
 
-- LinkedIn : [Mon profil LinkedIn](TON_LIEN_LINKEDIN)
-- Portfolio technique : [sys2sec](TON_LIEN_GITHUB_SYS2SEC)
+- LinkedIn : [Mon profil LinkedIn](https://www.linkedin.com/in/manonsaintetienne-systeme/)
 
 ---
 
-© 2026 Manon [Nom] — Tous droits réservés.
+© 2026 Manon SAINT-ETIENNE — Tous droits réservés.
