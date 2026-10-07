@@ -16,7 +16,7 @@ Ce portfolio présente plusieurs projets réalisés au cours de mon expérience 
 | [Harmonisation de l'antivirus des serveurs internationaux](./projects/antivirus_harmonization.md)              | Coordination internationale, suivi de déploiement, gestion d'échéances, validation    |
 | [Déploiement de clés antivirus pour environnements industriels](./projects/industrial_antivirus_alert_keys.md) | Déploiement multisite, formation, accompagnement utilisateurs, conduite du changement |
 | [Centralisation des logs avec Graylog](./projects/graylog_log_centralization.md)                               | Projet technique, sécurité, déploiement progressif, gestion de la journalisation      |
-| [Gestion de la vulnérabilité Log4j](./projectslog4j_remediation.md)                                           | Gestion de vulnérabilité critique, priorisation, remédiation, suivi d'urgence         |
+| [Gestion de la vulnérabilité Log4j](./projects/log4j_remediation.md)                                           | Gestion de vulnérabilité critique, priorisation, remédiation, suivi d'urgence         |
 
 ## Compétences mises en œuvre
 
