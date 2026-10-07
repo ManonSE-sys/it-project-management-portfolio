@@ -72,3 +72,7 @@ Afin de respecter la confidentialité des environnements concernés :
 * les fiches se concentrent sur les méthodes utilisées, les difficultés rencontrées et les enseignements tirés.
 
 Les retours d'expérience présentés correspondent également à mon regard actuel sur ces projets : ils permettent d'identifier ce que je conserverais et ce que j'aborderais différemment aujourd'hui avec davantage d'expérience.
+
+## Me retrouver
+
+- LinkedIn : [Mon profil LinkedIn](https://www.linkedin.com/in/manonsaintetienne-systeme)
