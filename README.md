@@ -25,6 +25,7 @@ Ce portfolio présente des projets réalisés à différentes étapes de mon par
 | Projet | Principaux sujets abordés |
 |---|---|
 | [Automatisation de la collecte et de la mise à disposition de fichiers](./projects/automated_file_delivery.md) | Analyse du besoin, automatisation Bash, cron, NFS, supervision Nagios, mise en production |
+| [Refonte et migration des classes Puppet](./projects/puppet_classes_migration.md) | Analyse de l'existant, refonte de configuration, migration progressive, gestion du risque, validation, reporting |
 
 ## Compétences mises en œuvre
 
