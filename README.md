@@ -10,6 +10,16 @@ Ce portfolio présente des projets réalisés à différentes étapes de mon par
 
 ## Projets
 
+
+### Projets techniques récents
+
+| Projet | Principaux sujets abordés |
+|---|---|
+| [Refonte et migration des classes Puppet](./projects/puppet_classes_migration.md) | Analyse de l'existant, refonte de configuration, migration progressive, gestion du risque, validation, reporting |
+| [Refonte de la stratégie de sauvegarde](./projects/backup_strategy_refactoring.md) | Analyse de l'existant, BackupPC, Proxmox, politiques de rétention, migration progressive, validation |
+| [Automatisation de la collecte et de la mise à disposition de fichiers](./projects/automated_file_delivery.md) | Analyse du besoin, automatisation Bash, cron, NFS, supervision Nagios, mise en production |
+
+
 ### Projets de pilotage et cybersécurité
 
 | Projet | Principaux sujets abordés |
@@ -19,14 +29,6 @@ Ce portfolio présente des projets réalisés à différentes étapes de mon par
 | [Déploiement de clés antivirus pour environnements industriels](./projects/industrial_antivirus_alert_keys.md) | Déploiement multisite, formation, accompagnement utilisateurs, conduite du changement |
 | [Centralisation des logs avec Graylog](./projects/graylog_log_centralization.md) | Projet technique, sécurité, déploiement progressif, journalisation |
 | [Gestion de la vulnérabilité Log4j](./projects/log4j_remediation.md) | Gestion de vulnérabilité critique, priorisation, remédiation, suivi d'urgence |
-
-### Projets techniques récents
-
-| Projet | Principaux sujets abordés |
-|---|---|
-| [Automatisation de la collecte et de la mise à disposition de fichiers](./projects/automated_file_delivery.md) | Analyse du besoin, automatisation Bash, cron, NFS, supervision Nagios, mise en production |
-| [Refonte et migration des classes Puppet](./projects/puppet_classes_migration.md) | Analyse de l'existant, refonte de configuration, migration progressive, gestion du risque, validation, reporting |
-| [Refonte de la stratégie de sauvegarde](./projects/backup_strategy_refactoring.md) | Analyse de l'existant, BackupPC, Proxmox, politiques de rétention, migration progressive, validation |
 
 ## Compétences mises en œuvre
 
